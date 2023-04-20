@@ -27,7 +27,7 @@ async function loadProducts(imageListUrl) { //started async function with an arg
 }
 loadProducts(imageListUrl);
 
-Sure! Here is a breakdown of the JavaScript code:
+
 
 
 
