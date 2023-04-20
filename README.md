@@ -30,3 +30,6 @@ Contributions are welcome! Please feel free to submit a pull request or issue wi
 
 Credits:
 This project was developed by Chaitanya Thakur.
+
+See the project hosted on this link:
+https://chaitanyathakur.github.io/Photo-Gallery-Website--using-fetch/
